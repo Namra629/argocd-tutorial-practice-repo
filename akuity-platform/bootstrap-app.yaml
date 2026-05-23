@@ -8,7 +8,7 @@
 #     namespace: argocd
 #   source:
 #     path: apps/
-#     repoURL: 'https://github.com/<repo>'
+#     repoURL: 'https://github.com/Namra629/argocd-tutorial-practice-repo'
 #     targetRevision: HEAD
 #     directory: {}
 #   project: default
